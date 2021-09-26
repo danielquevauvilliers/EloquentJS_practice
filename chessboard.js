@@ -1,4 +1,4 @@
-let size = 8;
+let size = 12;
 let firstRow = "";
 let secondRow = "";
 do {
